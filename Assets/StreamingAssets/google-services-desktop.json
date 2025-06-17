@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "388432457137",
+    "firebase_url": "https://accessorizear-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "accessorizear",
+    "storage_bucket": "accessorizear.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388432457137:android:dfe9f190b33fe51f86e190",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.AccessorizeAR"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1J6zZ1_QffUv-CsPSWcamIFHxHs8lBHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
