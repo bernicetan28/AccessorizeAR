@@ -1,7 +1,7 @@
 # AccessorizeAR
 This project focuses on developing an augmented reality (AR) application that allows users to virtually try on accessories such as bracelets, rings, and watches in real time. It is designed to enhance the online shopping experience by providing a realistic, interactive, and personalized visualization of products.
 
-![image alt] (https://github.com/bernicetan28/AccessorizeAR/blob/1453870dadf89fa203c1f30a2cfc0304a60d2258/Untitled%20design.png)
+![image alt](https://github.com/bernicetan28/AccessorizeAR/blob/1453870dadf89fa203c1f30a2cfc0304a60d2258/Untitled%20design.png)
 
 ## Features
 
